@@ -3,7 +3,7 @@
 
 ## Dataset
 
-> The dataset, 2017-fordgobike-tripdata.csv, is downloaded from Ford GoBike and licensed by Ford GoBike. This dataset includes 519,700 trips with 13 features such as locations, time, and user type. There are start and end stations.
+> The dataset, 2017-fordgobike-tripdata.csv, is downloaded from <a href="https://s3.amazonaws.com/fordgobike-data/index.html">Ford GoBike</a> and licensed by Ford GoBike. This dataset includes 519,700 trips with 13 features such as locations, time, and user type. There are start and end stations.
 The dataset provided to us by Ford include the following fields:
 
 >  * Trip Duration (in seconds)
